@@ -1,5 +1,5 @@
 SadNet/  
-│ 
+│  
 └── convert.py           #Convert Data Types if you need  
 └── extract aC.py        #Generate seq.fasta, which will be used in parse data.py  
 └── get_name.py          #Generate a training directory based on the PDBbind dataset, which is necessary for training.py  
